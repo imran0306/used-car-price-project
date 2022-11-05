@@ -1,0 +1,201 @@
+,Brand,Make_Year,Fuel,KMs_Driven,Engine_Displacement,No_Of_Owner,Transmission,Mileage,Max_Power,Torque,Seats,Color,Gear_Box,Drive_Type,Steering_Type,Front_Brake_Type,Rear_Brake_Type,Acceleration,Engine_Type,Price
+0,2020 Jeep Compass 1.4 Longitude Option,2020,Petrol,"15,252 Kms",1368 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 21.65 Lakh
+1,2018 Hyundai Creta 1.6 SX,2018,Petrol,"31,129 Kms",1591 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.71 Lakh
+2,2018 Hyundai Grand i10 1.2 Kappa Asta,2018,Petrol,"14,889 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,None
+3,2016 Hyundai Grand i10 Sportz,2016,Petrol,"45,645 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.14 Lakh
+4,2019 Maruti Baleno 1.2 Zeta,2019,Petrol,"15,600 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.84 Lakh
+5,2018 Hyundai i20 1.2 Spotz,2018,Petrol,"34,683 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.35 Lakh
+6,2020 MG Hector Sharp DCT,2020,Petrol,"13,515 Kms",1451 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 18.99 Lakh
+7,2019 Honda City ZX CVT,2019,Petrol,"20,013 Kms",1497 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.45 Lakh
+8,2014 Maruti Alto 800 LXI,2014,Petrol,"23,082 Kms",796 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.94 Lakh
+9,2011 Nissan Micra Diesel XV Premium,2011,Diesel,"84,431 Kms",1461 cc,First Owner,Manual,Power Steering,None,Heater,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 2.63 Lakh
+10,2018 Hyundai Creta 1.6 SX,2018,Petrol,"46,759 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 12.25 Lakh
+11,2019 Hyundai Verna VTVT 1.6 AT SX Option,2019,Petrol,"4,357 Kms",1591 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 13.44 Lakh
+12,2017 Maruti Ciaz 1.4 Alpha,2017,Petrol,"37,330 Kms",1373 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.90 Lakh
+13,2020 Hyundai Verna SX Opt Turbo,2020,Petrol,"47,383 Kms",998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 13.67 Lakh
+14,2015 Honda City i VTEC CVT SV,2015,Petrol,"42,000 Kms",1497 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.55 Lakh
+15,2019 Volvo XC 90 D5 Momentum,2019,Diesel,"55,000 Kms",1969 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 58 Lakh
+16,2021 BMW X6 xDrive40i xLine,2021,Petrol,"5,000 Kms",2998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.16 Crore
+17,2017 Toyota Land Cruiser VX Premium,2017,Diesel,"90,000 Kms",4461 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.31 Crore
+18,2014 Mercedes-Benz G G63 AMG,2014,Petrol,"48,500 Kms",5461 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.08 Crore
+19,2020 Porsche Macan 3.0 Twin Turbo V6,2020,Petrol,"16,000 Kms",2997 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 79.50 Lakh
+20,2021 Hyundai Venue SX Turbo,2021,Petrol,"7,745 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.98 Lakh
+21,2017 Hyundai i20 Sportz 1.2,2017,Petrol,"34,553 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.68 Lakh
+22,2017 Maruti Ciaz 1.4 Alpha,2017,Petrol,"57,372 Kms",1373 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.01 Lakh
+23,2015 Honda City i VTEC CVT VX,2015,Petrol,"55,034 Kms",1497 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.76 Lakh
+24,2015 Renault Duster 110PS Diesel RXZ Optional with Nav,2015,Diesel,"36,256 Kms",1461 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.99 Lakh
+25,2017 Maruti Ciaz 1.4 Alpha,2017,Petrol,"45,024 Kms",1373 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.70 Lakh
+26,2020 MG Hector Sharp DCT,2020,Petrol,"20,531 Kms",1451 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 18.88 Lakh
+27,2012 Hyundai EON Era,2012,Petrol,"41,271 Kms",814 cc,First Owner,Manual,Power Steering,None,Digital Odometer,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.95 Lakh
+28,2016 Honda City i VTEC V,2016,Petrol,"88,079 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.50 Lakh
+29,2016 Mahindra TUV 300 T8,2016,Diesel,"1,13,113 Kms",1493 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.71 Lakh
+30,2015 Honda City i VTEC VX,2015,Petrol,"66,613 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.55 Lakh
+31,2021 Maruti Swift Dzire VXI,2021,Petrol,"7,632 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.03 Lakh
+32,2020 Maruti Swift Dzire ZXI 1.2,2020,Petrol,"33,221 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.15 Lakh
+33,2019 Hyundai Verna VTVT 1.6 AT SX Option,2019,Petrol,"44,335 Kms",1591 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 12.05 Lakh
+34,2019 MG Hector Sharp DCT,2019,Petrol,"11,783 Kms",1451 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 17.14 Lakh
+35,2020 Hyundai Venue SX Turbo,2020,Petrol,"15,465 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.63 Lakh
+36,2021 Hyundai Venue SX Turbo,2021,Petrol,"7,057 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.73 Lakh
+37,2020 Hyundai Grand i10 Nios Sportz,2020,Petrol,"16,760 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.30 Lakh
+38,2016 Maruti Alto 800 LXI,2016,Petrol,"38,679 Kms",796 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.28 Lakh
+39,2015 Honda City i DTEC VX,2015,Diesel,"1,02,836 Kms",1498 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.08 Lakh
+40,2019 Maruti Baleno 1.2 Alpha,2019,Petrol,"51,855 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.67 Lakh
+41,2018 Maruti Baleno 1.2 Zeta,2018,Petrol,"42,059 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.15 Lakh
+42,2020 Hyundai Santro Sportz,2020,Petrol,"8,698 Kms",1086 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.14 Lakh
+43,2019 Maruti S-Presso VXI 2019-2022,2019,Petrol,"9,402 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.98 Lakh
+44,2019 Hyundai Santro Asta BSIV,2019,Petrol,"8,157 Kms",1086 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.78 Lakh
+45,2018 Maruti Vitara Brezza ZDi Plus,2018,Diesel,"25,859 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.06 Lakh
+46,2018 Renault KWID 1.0 RXT Optional,2018,Petrol,"38,967 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.03 Lakh
+47,2019 Tata Nexon 1.2 Revotron XM,2019,Petrol,"15,130 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.35 Lakh
+48,2015 Hyundai i20 Sportz 1.2,2015,Petrol,"71,453 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.41 Lakh
+49,2012 Honda City V MT,2012,Petrol,"1,03,678 Kms",1497 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.61 Lakh
+50,2017 Hyundai Creta 1.6 VTVT SX Plus,2017,Petrol,"22,721 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.30 Lakh
+51,2014 Maruti Alto K10 2010-2014 VXI,2014,Petrol,"80,422 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.76 Lakh
+52,2015 Maruti Celerio ZXI AT,2015,Petrol,"86,672 Kms",998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.53 Lakh
+53,2016 Maruti Baleno 1.2 Delta,2016,Petrol,"52,822 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.28 Lakh
+54,2015 Hyundai i20 Sportz Option 1.2,2015,Petrol,"40,732 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.28 Lakh
+55,2022 Maruti S-Presso VXi Plus,2022,Petrol,"2,224 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.96 Lakh
+56,2017 Maruti Celerio VXI AMT BSIV,2017,Petrol,"39,689 Kms",998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.19 Lakh
+57,2017 Hyundai i20 1.2 Magna Executive,2017,Petrol,"27,350 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.63 Lakh
+58,2013 Maruti Swift Dzire ZDI,2013,Diesel,"87,752 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.13 Lakh
+59,2013 Toyota Etios G SP,2013,Petrol,"52,796 Kms",1496 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.09 Lakh
+60,2021 Nissan Kicks 1.3 Turbo XV Pre CVT,2021,Petrol,"6,660 Kms",1330 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 14.80 Lakh
+61,2018 Renault KWID 1.0 RXT Optional,2018,Petrol,"35,447 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.98 Lakh
+62,2016 Maruti Ciaz VDI SHVS,2016,Diesel,"52,322 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.14 Lakh
+63,2020 Renault KWID RXT,2020,Petrol,"24,693 Kms",799 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.76 Lakh
+64,2018 Honda City i-VTEC CVT ZX,2018,Petrol,"22,542 Kms",1497 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 12.78 Lakh
+65,2017 Honda City i VTEC SV,2017,Petrol,"25,894 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.89 Lakh
+66,2016 Maruti Alto K10 VXI Optional,2016,Petrol,"18,331 Kms",998 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.50 Lakh
+67,2021 Nissan Kicks 1.5 XV,2021,Petrol,"13,542 Kms",1498 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 9.80 Lakh
+68,2011 Maruti Swift VXi BSIV,2011,Petrol,"54,273 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.52 Lakh
+69,2013 Hyundai i10 Sportz AT,2013,Petrol,"76,049 Kms",1197 cc,First Owner,Automatic,Power Steering,None,Heater,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 3.93 Lakh
+70,2020 Hyundai Grand i10 Nios AMT Asta,2020,Petrol,"43,446 Kms",1197 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.60 Lakh
+71,2012 Hyundai i10 Magna 1.1L,2012,Petrol,"31,085 Kms",1086 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.40 Lakh
+72,2021 Toyota Urban cruiser High,2021,Petrol,"6,016 Kms",1462 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.08 Lakh
+73,2015 Volkswagen Polo 1.5 TDI Highline,2015,Diesel,"85,697 Kms",1498 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.66 Lakh
+74,2015 Datsun GO A,2015,Petrol,"27,538 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.41 Lakh
+75,2015 Maruti Wagon R VXI BS IV,2015,Petrol,"71,470 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.90 Lakh
+76,2017 Maruti Swift Dzire ZXI Plus BS IV,2017,Petrol,"27,925 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.23 Lakh
+77,2020 Honda City ZX CVT,2020,Petrol,"18,657 Kms",1498 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 14.43 Lakh
+78,2017 Hyundai Verna VTVT 1.6 SX,2017,Petrol,"25,598 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.88 Lakh
+79,2015 Maruti Wagon R VXI BS IV,2015,Petrol,"20,741 Kms",998 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.25 Lakh
+80,2013 Ford Figo Diesel ZXI,2013,Diesel,"60,000 Kms",1399 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.95 Lakh
+81,2021 Mercedes-Benz GLC 220d 4MATIC,2021,Diesel,"8,010 Kms",1950 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 68.25 Lakh
+82,2017 Toyota Innova Crysta 2.4 VX MT BSIV,2017,Diesel,"39,000 Kms",2393 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 20.75 Lakh
+83,2013 Ford Figo Diesel ZXI,2013,Diesel,"95,390 Kms",1399 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.74 Lakh
+84,2008 Maruti SX4 Zxi BSIII,2008,Petrol,"1,39,315 Kms",1586 cc,Third Owner,Manual,Power Steering,None,Heater,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 1.25 Lakh
+85,2017 Maruti Swift VVT ZXI,2017,Petrol,"66,612 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.27 Lakh
+86,2020 Hyundai i20 Sportz Plus BSIV,2020,Petrol,"23,766 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.51 Lakh
+87,2014 Hyundai Grand i10 Asta,2014,Petrol,"1,27,767 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.61 Lakh
+88,2012 Mahindra XUV500 W8 2WD,2012,Diesel,"1,13,299 Kms",2179 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.48 Lakh
+89,2009 Toyota Corolla Altis G,2009,Petrol,"58,735 Kms",1798 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.23 Lakh
+90,2015 Toyota Camry Hybrid,2015,Electric,"65,011 Kms",2494 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 13.51 Lakh
+91,2021 Tata Harrier XZ Plus,2021,Diesel,"49,039 Kms",1956 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 20.69 Lakh
+92,2017 Toyota Innova Crysta 2.4 VX MT 8S BSIV,2017,Diesel,"39,000 Kms",2393 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 21.50 Lakh
+93,2010 Skoda Superb Elegance 1.8 TSI AT,-,5 Seats,N/A,Automatic,1798 cc,2010,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.25 Lakh
+94,2012 Jaguar XJ 3.0L Portfolio LWB,2012,Diesel,"15,000 Kms",2993 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 36.50 Lakh
+95,2017 Ford Figo 1.5P Titanium AT,2017,Petrol,"24,000 Kms",1499 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.90 Lakh
+96,2017 Toyota Innova Crysta 2.4 ZX MT,2017,Diesel,"32,000 Kms",2393 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 23.50 Lakh
+97,2011 Mahindra Scorpio VLX 4WD AT 7S BSIV,2011,Diesel,"90,000 Kms",2179 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.25 Lakh
+98,2015 Maruti Swift Dzire VDI,2015,Diesel,"82,000 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.50 Lakh
+99,2016 Mercedes-Benz C-Class C 220 CDI Avantgarde,2016,Diesel,"32,000 Kms",2143 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 30.95 Lakh
+100,2006 Tata Indica eV2 DL BSIII,-,5 Seats,Third Owner,2006,Manual,None,Remote Trunk Opener,None,Fabric Upholstery,Power Adjustable Exterior Rear View Mirror,-,-,-,-,-,-,-,-,"₹ 40,000"
+101,2013 Honda Amaze S i-Vtech,2013,Petrol,"85,000 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.35 Lakh
+102,2014 Hyundai i20 Asta 1.2,2014,Petrol,"27,000 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.75 Lakh
+103,2020 Hyundai Venue S,2020,Petrol,"7,879 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.99 Lakh
+104,2008 Hyundai Verna Xi (Petrol),2008,Petrol,"90,215 Kms",1599 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.35 Lakh
+105,2017 Hyundai Verna 1.6 SX VTVT,2017,Petrol,"25,480 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.75 Lakh
+106,2020 Tata Harrier XZA Plus Dark Edition AT 2020-2022,2020,Diesel,"27,267 Kms",1956 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 22.95 Lakh
+107,2011 BMW 5 Series 520d Sedan,2011,Diesel,"48,000 Kms",1995 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 15.80 Lakh
+108,2010 Honda City 1.5 V AT,2010,Petrol,"91,000 Kms",1497 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.95 Lakh
+109,2018 Mahindra XUV500 W9 2WD,2018,Diesel,"39,000 Kms",2179 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 17.50 Lakh
+110,2010 Honda Civic 1.8 S AT,2010,Petrol,"1,17,000 Kms",1799 cc,Third Owner,Automatic,Power Steering,None,Heater,Power Adjustable Exterior Rear View Mirror,-,-,-,-,-,-,-,-,₹ 4.25 Lakh
+111,2019 BMW X1 M Sport sDrive 20d,2019,Diesel,"5,729 Kms",1995 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 41.45 Lakh
+112,2010 Toyota Fortuner 3.0 Diesel,2010,Diesel,"1,20,000 Kms",2982 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.75 Lakh
+113,2020 Hyundai Venue SX Plus Turbo DCT,2020,Petrol,"28,000 Kms",998 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.65 Lakh
+114,2021 Kia Seltos HTX G,2021,Petrol,"9,000 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 15.50 Lakh
+115,2021 Kia Seltos Anniversary Edition IVT,2021,Petrol,"24,000 Kms",1497 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 16.75 Lakh
+116,2008 Hyundai i10 Sportz 1.2,2008,Petrol,"23,000 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 2.80 Lakh
+117,2018 Maruti Celerio VXI Optional AMT BSIV,2018,Petrol,"22,000 Kms",998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.75 Lakh
+118,2015 Honda Amaze VX i-Vtech,2015,Petrol,"39,000 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.15 Lakh
+119,2013 Volkswagen Polo 1.2 MPI Comfortline,2013,Petrol,"34,000 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.75 Lakh
+120,2017 Mercedes-Benz GLA Class 200 CDI SPORT,2017,Diesel,"32,000 Kms",2143 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 24.75 Lakh
+121,2020 Volkswagen Polo 1.0 TSI Highline Plus,2020,Petrol,"38,000 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 9.40 Lakh
+122,2006 Hyundai Santro Xing XO,2006,Petrol,"1,43,264 Kms",1086 cc,Fourth Owner,Manual,Power Steering,None,Heater,-,-,-,-,-,-,-,-,-,"₹ 96,489"
+123,2011 Maruti SX4 ZXI MT BSIV,2011,Petrol,"1,07,621 Kms",1586 cc,Third Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.78 Lakh
+124,2017 Renault Duster 85PS Diesel RxZ,2017,Diesel,"90,663 Kms",1461 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.13 Lakh
+125,2016 Maruti Swift Dzire VDI,2016,Diesel,"1,03,856 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.63 Lakh
+126,2018 Maruti Alto 800 VXI,2018,Petrol,"19,893 Kms",796 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.42 Lakh
+127,2022 Tata Punch Accomplished AMT,2022,Petrol,"6,018 Kms",1199 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.92 Lakh
+128,2018 Maruti Baleno 1.2 Alpha,2018,Petrol,"28,030 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.93 Lakh
+129,2021 Hyundai Grand i10 Nios Magna Corp Edition,2021,Petrol,"16,111 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.41 Lakh
+130,2017 Maruti Celerio VXI AMT BSIV,2017,Petrol,"4,177 Kms",998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.44 Lakh
+131,2011 Hyundai Santro Xing GL Plus,2011,Petrol,"62,116 Kms",1086 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.85 Lakh
+132,2020 Mahindra XUV300 W6 Diesel,2020,Diesel,"29,143 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10 Lakh
+133,2019 Kia Seltos GTX Plus,2019,Petrol,"29,830 Kms",1353 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 16.51 Lakh
+134,2017 Hyundai Creta 1.6 VTVT AT SX Plus,2017,Petrol,"68,981 Kms",1591 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.49 Lakh
+135,2019 Maruti Baleno Alpha,2019,Petrol,"22,226 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.30 Lakh
+136,2020 Kia Seltos GTX Plus DCT,2020,Petrol,"38,300 Kms",1353 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 18.34 Lakh
+137,2016 Mahindra KUV 100 mFALCON D75 K8,2016,Diesel,"42,129 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.12 Lakh
+138,2013 Renault Duster 110PS Diesel RxL,2013,Diesel,"75,670 Kms",1461 cc,Third Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.88 Lakh
+139,2011 Volkswagen Vento Petrol Highline,2011,Petrol,"64,589 Kms",1598 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.75 Lakh
+140,2018 Hyundai Santro Sportz BSIV,2018,Petrol,"16,343 Kms",1086 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.52 Lakh
+141,2021 Hyundai Tucson GLS Diesel AT,2021,Diesel,"27,430 Kms",1995 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 23.69 Lakh
+142,2019 Hyundai Verna VTVT 1.6 AT SX Plus,2019,Petrol,"19,445 Kms",1591 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 11.58 Lakh
+143,2018 Mercedes-Benz GLC 220d 4MATIC Sport,2018,Diesel,"22,000 Kms",2143 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 49 Lakh
+144,2004 Toyota Corolla H2,-,5 Seats,N/A,Manual,1794 cc,2004,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.70 Lakh
+145,2011 BMW X5 xDrive 30d,2011,Diesel,"85,000 Kms",2993 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.95 Lakh
+146,2013 Maruti Swift VDI,2013,Diesel,"75,513 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.15 Lakh
+147,2016 Maruti Wagon R VXI AMT1.2BSIV,2016,Petrol,"29,000 Kms",1197 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.65 Lakh
+148,2012 Hyundai i10 Sportz AT,2012,Petrol,"44,000 Kms",1197 cc,First Owner,Automatic,Power Steering,None,Heater,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 3.85 Lakh
+149,2017 Maruti Ertiga BSIV ZXI,2017,Petrol,"51,756 Kms",1373 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.75 Lakh
+150,2017 Hyundai Verna VTVT 1.6 SX,2017,Petrol,"34,990 Kms",1591 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.45 Lakh
+151,2017 BMW 3 Series GT M Sport Petrol,2017,Petrol,"18,000 Kms",1998 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 36 Lakh
+152,2021 Renault Kiger RXT,2021,Petrol,"12,000 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.75 Lakh
+153,2020 Hyundai Verna SX Opt,2020,Petrol,"22,000 Kms",1497 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 13.40 Lakh
+154,2015 Volvo V40 T4,2015,Petrol,"14,000 Kms",1596 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 16.75 Lakh
+155,2017 Hyundai Creta 1.6 SX Automatic Diesel,2017,Diesel,"79,000 Kms",1582 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 12.75 Lakh
+156,2016 Honda Jazz 1.2 V i VTEC,2016,Petrol,"50,955 Kms",1199 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.45 Lakh
+157,2016 Hyundai i20 Magna AT 1.4,2016,Petrol,"90,000 Kms",1368 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.20 Lakh
+158,2018 Maruti Baleno Alpha,2018,Petrol,"19,774 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.35 Lakh
+159,2010 Maruti Swift VXi BSIV,2010,Petrol,"1,13,791 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.53 Lakh
+160,2013 Volkswagen Jetta 2.0L TDI Comfortline,2013,Diesel,"1,00,766 Kms",1968 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.85 Lakh
+161,2017 Hyundai Verna 1.6 SX VTVT,2017,Petrol,"41,328 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.99 Lakh
+162,2021 Mercedes-Benz C-Class Progressive C 200,2021,Petrol,"5,000 Kms",1950 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 48 Lakh
+163,2012 Volkswagen Polo Diesel Trendline 1.2L,2012,Diesel,"80,000 Kms",1199 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.10 Lakh
+164,2010 Hyundai i20 1.2 Magna,2010,Petrol,"90,000 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Fog Lights Rear,-,-,-,-,-,-,-,-,₹ 3.85 Lakh
+165,2013 Volkswagen Polo 1.5 TDI Comfortline,2013,Diesel,"50,000 Kms",1498 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.90 Lakh
+166,2017 Hyundai Verna CRDi 1.6 AT SX Plus,2017,Diesel,"80,000 Kms",1582 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 10.95 Lakh
+167,2016 Mahindra XUV500 AT W10 1.99 mHawk,2016,Diesel,"60,121 Kms",1997 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 14.25 Lakh
+168,2010 BMW 7 Series 730Ld Sedan,2010,Diesel,"69,000 Kms",2993 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 25 Lakh
+169,2015 Toyota Fortuner 4X2 AT,2015,Petrol,"62,000 Kms",2694 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 23.40 Lakh
+170,2014 Maruti Swift Dzire ZDI,2014,Diesel,"61,322 Kms",1248 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.35 Lakh
+171,2016 Maruti Ertiga VXI AT Petrol,2016,Petrol,"52,000 Kms",1462 cc,Second Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.50 Lakh
+172,2020 Maruti Swift VXI,2020,Petrol,"28,449 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.30 Lakh
+173,2014 Maruti Swift Dzire VDI,-,5 Seats,Second Owner,2014,Manual,None,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.90 Lakh
+174,2012 Tata Manza Aqua Quadrajet BS IV,2012,Diesel,"1,37,433 Kms",1248 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 2.25 Lakh
+175,2017 Hyundai Grand i10 Sportz,2017,Petrol,"36,558 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.79 Lakh
+176,2018 Hyundai Grand i10 1.2 Kappa Asta,2018,Petrol,"13,858 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6 Lakh
+177,2015 Ford Figo 1.2P Titanium MT,2015,Petrol,"71,466 Kms",1196 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.06 Lakh
+178,2018 Renault KWID 1.0 RXT Optional,2018,Petrol,"15,104 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 3.90 Lakh
+179,2011 Ford Figo Petrol EXI,2011,Petrol,"75,612 Kms",1196 cc,Third Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 1.68 Lakh
+180,2016 Hyundai i20 Sportz 1.2,2016,Petrol,"39,331 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 5.56 Lakh
+181,2020 MG Hector Plus Sharp Hybrid MT,2020,Petrol,"34,640 Kms",1451 cc,First Owner,Manual,Power Windows Front,None,Leather Steering Wheel,Fog Lights Front,-,-,-,-,-,-,-,-,₹ 15.12 Lakh
+182,2021 Ford Endeavour Titanium Plus 4X2 AT,2021,Diesel,"57,000 Kms",1996 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 36.75 Lakh
+183,2013 Mahindra XUV500 W8 2WD,2013,Diesel,"1,10,000 Kms",2179 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8 Lakh
+184,2017 Renault Duster Petrol RXS CVT,2017,Petrol,"33,260 Kms",1498 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.75 Lakh
+185,2018 Maruti Baleno 1.2 Zeta,2018,Petrol,"40,610 Kms",1197 cc,Second Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.80 Lakh
+186,2013 Mahindra XUV500 W8 AWD,2013,Diesel,"94,761 Kms",2179 cc,Third Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.40 Lakh
+187,2018 Hyundai Creta 1.6 SX Automatic Diesel,2018,Diesel,"1,42,000 Kms",1582 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 14.90 Lakh
+188,2018 Hyundai i20 1.2 Asta Option,2018,Petrol,"20,304 Kms",1197 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 8.65 Lakh
+189,2016 Volkswagen Polo Select 1.2 MPI Highline,2016,Petrol,"13,821 Kms",1198 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.35 Lakh
+190,2017 Maruti Ignis 1.2 AMT Zeta BSIV,2017,Petrol,"22,000 Kms",1197 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.50 Lakh
+191,2019 Kia Seltos GTX Plus DCT,2019,Petrol,"36,000 Kms",1353 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 16.25 Lakh
+192,2020 Volkswagen Polo 1.0 TSI Comfortline,2020,Petrol,"57,000 Kms",999 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 7.80 Lakh
+193,2015 Hyundai Verna 1.6 VTVT S Option,2015,Petrol,"16,452 Kms",1591 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 6.80 Lakh
+194,2009 Honda Civic 1.8 V MT,2009,Petrol,"53,000 Kms",1799 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 4.50 Lakh
+195,2017 Jeep Compass 2.0 Limited Option 4X4,2017,Diesel,"39,000 Kms",1956 cc,First Owner,Manual,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 17.25 Lakh
+196,2018 Volvo XC40 D4 R-Design,2018,Diesel,"52,888 Kms",1969 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 35.50 Lakh
+197,2017 Mercedes-Benz CLA 200 CGI Sport,2017,Petrol,"27,761 Kms",1991 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 27.25 Lakh
+198,2019 Mercedes-Benz C-Class Progressive C 220d,2019,Diesel,"8,208 Kms",1950 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 46 Lakh
+199,2018 Lexus NX 300h,2018,Petrol,"16,966 Kms",2499 cc,First Owner,Automatic,Power Steering,None,Heater,Adjustable Head Lights,-,-,-,-,-,-,-,-,₹ 55 Lakh
